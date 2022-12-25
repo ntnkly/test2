@@ -1,0 +1,55 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "email":"Moradabad"
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "email":"Lucknow"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "email":"Noida"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "email":"Delhi"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "email":"Gurugram"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "email":"Mumbai"
+    },
+    {
+        "id":7,
+        "name":"Kalpana",
+        "email":"Delhi"
+    },
+    
+    {
+        "id":8,
+        "name":"Parul",
+        "email":"Chandigarh"
+    },
+    
+    {
+        "id":9,
+        "name":"Himani",
+        "email":"Dehradun"
+    }
+]
